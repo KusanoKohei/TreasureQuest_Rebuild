@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ExistingAssets/Aekashics Librarium - Megapack III/Demo/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 1162e739be4666743b5d1640dda566c6
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 640c4a2663a7d204f96d79c0b70744ed
+  - enabled: 1
+    path: Assets/Scenes/Quest.unity
+    guid: 8a642e3852e918940a02aad546b4044c
+  m_configObjects: {}
